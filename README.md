@@ -1,66 +1,91 @@
 # Mmeli Gabriel Dyantyi
+────────────────────────────────────────────
+Systems Developer · Cloud Engineer · DevOps Engineer · Full-Stack Builder  
+Applied Mathematics & Computer Science Student
+────────────────────────────────────────────
 
-**Systems Developer | Cloud Engineer | DevOps Engineer | Full-Stack Builder**  
-Applied Mathematics & Computer Science Student  
+I design and ship **modular, scalable, production-ready systems**.
 
-I design and build **modular, scalable, production-ready systems** with a strong emphasis on clarity, operational robustness, and intentional design. My work sits at the intersection of software engineering, cloud infrastructure, and mathematical reasoning — transforming complex requirements into clean, deployable systems.
+My work lives where **architecture**, **cloud infrastructure**, and  
+**mathematical reasoning** intersect — turning complex ideas into  
+systems that deploy cleanly, scale predictably, and fail gracefully.
 
 ---
 
 ## What I Do
+────────────────────────────────────────────
 
-- **Full-stack systems engineering**: Designing backend services and APIs and integrating them with performant, modern frontends.  
-- **Cloud & DevOps engineering**: Containerized deployments with Docker and Kubernetes, automated CI/CD pipelines, and secure infrastructure practices.  
-- **System architecture**: Building future-proof systems with clear boundaries, replaceable components, and strong contracts between layers.  
-- **Operational debugging**: Rapid diagnosis of build, configuration, networking, and runtime failures across environments.  
-- **Mathematical problem-solving**: Translating abstract models, constraints, and logic into deterministic, reliable code.
+→ **Full-stack systems engineering**  
+Backend services and APIs wired into fast, modern frontends.
+
+→ **Cloud & DevOps engineering**  
+Containerized deployments, CI/CD pipelines, infrastructure that is  
+repeatable, observable, and secure by default.
+
+→ **System architecture**  
+Clear boundaries. Replaceable components. Strong contracts between layers.
+
+→ **Operational debugging**  
+Build failures, config issues, network problems, runtime surprises —  
+diagnosed quickly, fixed properly.
+
+→ **Mathematical problem-solving**  
+Abstract rules → deterministic logic → reliable code.
 
 ---
 
 ## Tech Stack
+────────────────────────────────────────────
 
 **Frontend**  
-React, Vite, TailwindCSS, React Native, Ionic / Angular  
+React · Vite · TailwindCSS · React Native · Ionic / Angular  
 
 **Backend**  
-Node.js, Python, Go, ASP.NET, Spring Boot  
+Node.js · Python · Go · ASP.NET · Spring Boot  
 
-**Cloud & DevOps**  
-Docker, Kubernetes, GitHub Actions, CI/CD pipelines, AWS  
+**Cloud & Ops**  
+Docker · Kubernetes · GitHub Actions · CI/CD · AWS  
 
 **Databases**  
-MongoDB, PostgreSQL  
+MongoDB · PostgreSQL  
 
 **Other**  
-Advanced API integrations, authentication & authorization flows, secure credential management
+Advanced API integrations · Auth flows · Secure credential workflows
 
 ---
 
 ## Current Focus
+────────────────────────────────────────────
 
-- Preparing for **AWS Cloud Infrastructure Certification**  
-- Delivering **modular microservices** for multi-channel integrations (WhatsApp, Twitter/X, Facebook)  
-- Resolving **SSL/TLS connectivity and networking issues** with MongoDB Atlas  
-- Hardening repositories by **eliminating exposed secrets** and enforcing secure credential workflows  
-- Exploring **advanced ML workflows** and agentic system frameworks
+• AWS Cloud Infrastructure Certification  
+• Modular microservices for multi-channel integrations  
+  (WhatsApp · Twitter/X · Facebook)  
+• SSL/TLS and networking edge-cases with MongoDB Atlas  
+• Removing secrets from repos and enforcing secure pipelines  
+• Advanced ML workflows and agentic system frameworks
 
 ---
 
 ## Design Philosophy
+────────────────────────────────────────────
 
-Minimal, high-contrast interfaces.  
-Black foundations with bold orange accents.
+Minimal interfaces. High contrast.  
+Black foundations. Bold orange accents.
 
-Every artifact — codebase, README, UI, or technical document — should be immediately recognizable: **no clutter, maximum signal, intentional structure**.
+Every artifact — code, README, UI, document —  
+should be instantly recognizable:
 
----
-
-## 📫 Connect
-
-- **GitHub**: [MmelIGaba](https://github.com/MmelIGaba)  
-- **LinkedIn**: [Mmeli Dyantyi](https://www.linkedin.com/in/mmeli-dyantyi-849aa52a3/)  
-- **Portfolio**: [mmeligabriel.online](https://mmeligabriel.online)
+**no clutter · maximum signal · intentional structure**
 
 ---
 
-> *“Clarity, modularity, and operational excellence — every system is a manifesto.”*
+## Connect
+────────────────────────────────────────────
+
+GitHub    → https://github.com/MmelIGaba  
+LinkedIn  → https://www.linkedin.com/in/mmeli-dyantyi-849aa52a3/  
+Portfolio → https://mmeligabriel.online  
+
+---
+
+> *Clarity, modularity, and operational excellence — every system is a manifesto.*
