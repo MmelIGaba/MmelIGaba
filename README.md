@@ -14,7 +14,11 @@ I build systems that are easy to reason about, easy to deploy, and hard to break
 ---
 
 ## Theme
-──────────────────────────────────────────── </ br>
+────────────────────────────────────────────
+
+--- 
+
+
 **From UI to Cloud — one continuous system**
 
 Frontend, backend, and infrastructure are not separate concerns.  
@@ -89,9 +93,9 @@ If a system cannot be explained simply, it is not finished.
 ## Connect
 ────────────────────────────────────────────
 
-GitHub    → https://github.com/MmelIGaba  
-LinkedIn  → https://www.linkedin.com/in/mmeli-dyantyi-849aa52a3/  
-Portfolio → https://mmeligabriel.online  
+GitHub    → [GH](https://github.com/MmelIGaba)  
+LinkedIn  → [LinkedIn](https://www.linkedin.com/in/mmeli-dyantyi-849aa52a3/)  
+Portfolio → [Profile](https://mmeligabriel.online)  
 
 ---
 
