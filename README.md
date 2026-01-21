@@ -14,7 +14,6 @@ I build systems that are easy to reason about, easy to deploy, and hard to break
 ---
 
 ## Theme
-────────────────────────────────────────────
 
 --- 
 
@@ -27,7 +26,10 @@ They are one system, designed together.
 ---
 
 ## What I Build
-──────────────────────────────────────────── </ br>
+
+
+--- 
+
 
 → **Full-stack applications**  
 Modern frontends connected to well-structured APIs, designed for performance and maintainability.
