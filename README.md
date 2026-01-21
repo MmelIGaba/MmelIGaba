@@ -1,8 +1,6 @@
 # Mmeli Gabriel Dyantyi
-────────────────────────────────────────────
 Systems Developer · Cloud Engineer · DevOps Engineer · Full-Stack Builder  
 Applied Mathematics & Computer Science Student
-────────────────────────────────────────────
 
 I design and ship **modular, scalable, production-ready systems**.
 
