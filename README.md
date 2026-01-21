@@ -1,14 +1,16 @@
 # Mmeli Gabriel Dyantyi
-────────────────────────────────────────────  </ br>
+
 Cloud & Full-Stack Systems Engineer  
 Applied Mathematics & Computer Science
-────────────────────────────────────────────  </ br>
+
+---
 
 I design and deliver **end-to-end systems** — from user interfaces to cloud infrastructure — with a focus on **clarity, modularity, and production readiness**.
 </br>
 Every layer matters: the UI, the API, the pipeline, and the runtime.  
 I build systems that are easy to reason about, easy to deploy, and hard to break.
 </br>
+
 ---
 
 ## Theme
