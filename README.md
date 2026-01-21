@@ -1,34 +1,42 @@
 # Mmeli Gabriel Dyantyi
-Systems Developer · Cloud Engineer · DevOps Engineer · Full-Stack Builder  
-Applied Mathematics & Computer Science Student
+────────────────────────────────────────────  
+Cloud & Full-Stack Systems Engineer  
+Applied Mathematics & Computer Science
+────────────────────────────────────────────  
 
-I design and ship **modular, scalable, production-ready systems**.
+I design and deliver **end-to-end systems** — from user interfaces to cloud infrastructure — with a focus on **clarity, modularity, and production readiness**.
 
-My work lives where **architecture**, **cloud infrastructure**, and  
-**mathematical reasoning** intersect — turning complex ideas into  
-systems that deploy cleanly, scale predictably, and fail gracefully.
+Every layer matters: the UI, the API, the pipeline, and the runtime.  
+I build systems that are easy to reason about, easy to deploy, and hard to break.
 
 ---
 
-## What I Do
+## Theme
+────────────────────────────────────────────
+**From UI to Cloud — one continuous system**
+
+Frontend, backend, and infrastructure are not separate concerns.  
+They are one system, designed together.
+
+---
+
+## What I Build
 ────────────────────────────────────────────
 
-→ **Full-stack systems engineering**  
-Backend services and APIs wired into fast, modern frontends.
+→ **Full-stack applications**  
+Modern frontends connected to well-structured APIs, designed for performance and maintainability.
 
-→ **Cloud & DevOps engineering**  
-Containerized deployments, CI/CD pipelines, infrastructure that is  
-repeatable, observable, and secure by default.
+→ **Cloud-native backends**  
+Stateless services, clean contracts, and infrastructure that scales predictably.
 
-→ **System architecture**  
-Clear boundaries. Replaceable components. Strong contracts between layers.
+→ **DevOps pipelines**  
+Automated builds, tests, and deployments with secure credential handling and repeatable environments.
 
-→ **Operational debugging**  
-Build failures, config issues, network problems, runtime surprises —  
-diagnosed quickly, fixed properly.
+→ **Production architectures**  
+Modular systems with replaceable parts and clearly defined boundaries.
 
-→ **Mathematical problem-solving**  
-Abstract rules → deterministic logic → reliable code.
+→ **Operational reliability**  
+Systems that are observable, debuggable, and resilient under real-world conditions.
 
 ---
 
@@ -41,14 +49,14 @@ React · Vite · TailwindCSS · React Native · Ionic / Angular
 **Backend**  
 Node.js · Python · Go · ASP.NET · Spring Boot  
 
-**Cloud & Ops**  
-Docker · Kubernetes · GitHub Actions · CI/CD · AWS  
+**Cloud & DevOps**  
+AWS · Docker · Kubernetes · GitHub Actions · CI/CD  
 
 **Databases**  
 MongoDB · PostgreSQL  
 
-**Other**  
-Advanced API integrations · Auth flows · Secure credential workflows
+**Security & Integrations**  
+Auth flows · API integrations · Secure credential workflows
 
 ---
 
@@ -56,24 +64,23 @@ Advanced API integrations · Auth flows · Secure credential workflows
 ────────────────────────────────────────────
 
 • AWS Cloud Infrastructure Certification  
-• Modular microservices for multi-channel integrations  
-  (WhatsApp · Twitter/X · Facebook)  
-• SSL/TLS and networking edge-cases with MongoDB Atlas  
-• Removing secrets from repos and enforcing secure pipelines  
-• Advanced ML workflows and agentic system frameworks
+• Cloud-native microservices for multi-channel platforms  
+• Frontend ↔ backend contract design for scale  
+• SSL/TLS, networking, and connectivity edge cases  
+• Eliminating secrets from codebases and pipelines  
+• Exploring agentic systems and advanced ML workflows
 
 ---
 
 ## Design Philosophy
 ────────────────────────────────────────────
 
-Minimal interfaces. High contrast.  
-Black foundations. Bold orange accents.
+Minimal. High-contrast. Intentional.
 
-Every artifact — code, README, UI, document —  
-should be instantly recognizable:
+Black foundations. Bold orange accents.  
+Structure over decoration. Signal over noise.
 
-**no clutter · maximum signal · intentional structure**
+If a system cannot be explained simply, it is not finished.
 
 ---
 
@@ -86,4 +93,4 @@ Portfolio → https://mmeligabriel.online
 
 ---
 
-> *Clarity, modularity, and operational excellence — every system is a manifesto.*
+> *Build the whole system. Understand every layer.*
